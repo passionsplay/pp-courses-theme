@@ -1,0 +1,11 @@
+{
+	"name": "passionsplay/pp-courses-theme",
+	"description": "WordPress child theme of Storefront with styling for Sensei components.",
+	"type": "wordpress-theme",
+	"license": "GNU General Public License v2 or later",
+	"source": {
+		"url": "git@github.com:passionsplay/pp-courses-theme.git",
+		"type": "git",
+		"reference": "master"
+	}
+}
